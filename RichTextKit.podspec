@@ -12,10 +12,7 @@
   "authors": {
     "Daniel Saidi": "daniel.saidi@gmail.com"
   },
-  "source": {
-    "git": "https://github.com/vvbogdan/RichTextKit.git",
-    "tag": "1.0.0"
-  },
+  "source": { "git": "https://github.com/vvbogdan/RichTextKit.git" },
   "platforms": {
     "ios": "14.0",
     "tvos": "14.0",
